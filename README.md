@@ -1,0 +1,1 @@
+Built a web system for student hostel application and admin approval by using HTML, CSS, JavaScript, PHP. Developed modules for students, managers, and admins. Managed application flow and data via a structured MySQL database (XAMPP).
